@@ -1,11 +1,11 @@
 {
-name: "hemera"
-displayName: "Hemera"
-author: "SomeoneElse"
-description: "Adds a new rusty red planet (inspired by Mars) with semi-realistic tech trees."
+name: "nicheium"
+displayName: "Nicheium"
+author: "SomeoneElse, Abdullah"
+description: "*Kind of* a joke mod to make fun of those aspiring to be super niche. We'll see how it goes."
 version: "0.2"
 minGameVersion: "146"
 dependencies: [ ],
-subtitle: "Next on TODO: T2 and T3 enemies, fix research, add maps for all so far implemented content."
+subtitle: "Super NICHE"
 hidden: false
 }
