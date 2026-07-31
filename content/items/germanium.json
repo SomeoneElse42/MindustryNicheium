@@ -1,0 +1,11 @@
+{
+"name": "Germanium",
+  "description": "Hard and brittle semiconductor. Used in various electronics and transistors.",
+  "color": "77858f",
+  "hardness": 3,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}

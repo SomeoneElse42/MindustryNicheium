@@ -1,0 +1,11 @@
+{
+"name": "Neodymium",
+  "description": "Extremely soft metal. Used for its magnetic properties.",
+  "color": "9dc7cc",
+  "hardness": 3,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}

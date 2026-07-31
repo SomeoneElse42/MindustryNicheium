@@ -1,0 +1,11 @@
+{
+"name": "Cadmium",
+  "description": "A soft and malleable metal. Used for batteries and semiconductors.",
+  "color": "cec2a3",
+  "hardness": 4,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}
