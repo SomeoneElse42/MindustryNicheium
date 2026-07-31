@@ -2,8 +2,8 @@
 name: "nicheium"
 displayName: "Nicheium"
 author: "SomeoneElse, Abdullah"
-description: "*Kind of* a joke mod to make fun of those aspiring to be super niche. We'll see how it goes."
-version: "0.2"
+description: "*Kind of* a joke mod to make fun of those aspiring to only add super niche content such as elements. We'll see how it goes. \nNiche status: Kinda niche, we need more green marked elements on the niche table."
+version: "0.01"
 minGameVersion: "146"
 dependencies: [ ],
 subtitle: "Super NICHE"
