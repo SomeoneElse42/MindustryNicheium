@@ -1,0 +1,11 @@
+{
+"name": "Aluminium",
+  "description": "A slightly soft but really lightweight metal. Used for various structure.",
+  "color": "b2bccc",
+  "hardness": 3,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}

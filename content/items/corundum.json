@@ -1,0 +1,11 @@
+{
+"name": "Corundum",
+  "description": "Extremely hard, crystalline aluminium oxide. Used for heavy duty abrasives and abrasive resistant materials.",
+  "color": "e63967",
+  "hardness": 3,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}

@@ -1,0 +1,11 @@
+{
+"name": "Chromium",
+  "description": "A scratch and corrosion resistant metal. Used for mining and item transport.",
+  "color": "576bac",
+  "hardness": 3,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}

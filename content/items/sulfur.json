@@ -1,0 +1,11 @@
+{
+"name": "Sulfur",
+  "description": "A moderately flammable and explosive crystal. Used as a fuel and in chemical processing.",
+  "color": "fff962",
+  "hardness": 1,
+  "flammability": 1,
+  "explosiveness": 0.5,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}

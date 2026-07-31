@@ -1,0 +1,11 @@
+{
+"name": "Zinc",
+  "description": "A somewhat soft and slightly brittle metal. Used for liquid production and transport.",
+  "color": "a2ca9e",
+  "hardness": 2,
+  "flammability": 0,
+  "explosiveness": 0,
+  "radioactivity": 0,
+  "charge": 0,
+  "shownPlanets": ["exothermica"]
+}
