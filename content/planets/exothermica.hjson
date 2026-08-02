@@ -8,7 +8,7 @@ mesh: [
   divisions: 6
   color1: "59524c"
   color2: "ae6565"
-  radius: 0.8
+  radius: 1.1
   octaves: 4
   persistence: 0.12
   scl: 5
@@ -21,7 +21,7 @@ mesh: [
   divisions: 6
   color1: "bab26a"
   color2: "96aeb4"
-  radius: 0.8
+  radius: 1.1
   octaves: 4
   persistence: 0.8
   scl: 5
@@ -34,7 +34,7 @@ mesh: [
   divisions: 6
   color1: "71403d"
   color2: "6e8e75"
-  radius: 0.7
+  radius: 0.95
   octaves: 4
   persistence: 1.2
   scl: 5
