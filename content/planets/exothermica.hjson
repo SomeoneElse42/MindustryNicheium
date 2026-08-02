@@ -87,7 +87,7 @@ allowWaveSimulation: true
 parent: sun
 visible: true
 radius: 1.2
-atmosphereColor: ff8900ff
+atmosphereColor: ff6b00ff
 atmosphereRadIn: -0.1
 updateLighting: true
 rotateTime: 300
