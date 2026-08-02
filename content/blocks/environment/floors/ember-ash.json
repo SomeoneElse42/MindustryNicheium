@@ -1,0 +1,6 @@
+type: Floor
+name: "Ember Ash"
+emitLight: true
+lightRadius: 30
+blendGroup: "ash"
+variants: 3
