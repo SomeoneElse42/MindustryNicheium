@@ -3,4 +3,5 @@ name: "Ember Ash"
 emitLight: true
 lightRadius: 30
 blendGroup: "ash"
+lightColor: "dd7b52"
 variants: 3
