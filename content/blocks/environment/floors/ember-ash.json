@@ -1,7 +1,7 @@
 type: Floor
-name: "Ember Ash"
+name: "Ember Ash (Deprecated)"
 emitLight: true
 lightRadius: 8
-blendGroup: "ash"
+blendGroup: "floor-ash"
 lightColor: "dd7b5260"
 variants: 3
