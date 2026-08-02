@@ -24,7 +24,7 @@ mesh: [
   radius: 1.1
   octaves: 4
   persistence: 1
-  scl: 5
+  scl: 1
   mag: 0.7
   seed: 420
 }
