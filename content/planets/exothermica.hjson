@@ -9,8 +9,8 @@ mesh: [
   color1: "59524c"
   color2: "ae6565"
   radius: 1.2
-  octaves: 3
-  persistence: 1.4
+  octaves: 4
+  persistence: 0.4
   scl: 14
   mag: 0.5
   seed: 69
@@ -23,9 +23,10 @@ mesh: [
   color2: "96aeb4"
   radius: 1.2
   octaves: 4
-  persistence: 1.4
+  persistence: 0.6
   scl: 14
   mag: 0.4
+  seed: 420
 }
 {
   type: NoiseMesh
@@ -35,9 +36,10 @@ mesh: [
   color2: "6e8e75"
   radius: 1.2
   octaves: 4
-  persistence: 1.4
+  persistence: 0.6
   scl: 14
   mag: 0.4
+  seed: 161
 }
 ]
 cloudMesh: [
