@@ -1,9 +1,9 @@
 {
 "name": "Magnesium",
-  "description": "A slightly soft but really lightweight metal. Slightly reactive, really flammable. Used for lightweight machinery and flammable ammunition.",
+  "description": "A slightly soft but really lightweight metal. Slightly reactive, highly flammable. Used for lightweight machinery and flammable ammunition.",
   "color": "efeddd",
   "hardness": 3,
-  "flammability": 150,
+  "flammability": 100,
   "explosiveness": 0,
   "radioactivity": 0,
   "charge": 0,
