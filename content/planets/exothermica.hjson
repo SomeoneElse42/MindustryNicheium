@@ -19,8 +19,8 @@ mesh: [
   type: NoiseMesh
   planet: exothermica
   divisions: 6
-  color1: "bab26a"
-  color2: "96aeb4"
+  color1: "71403d"
+  color2: "6e8e75"
   radius: 1.1
   octaves: 4
   persistence: 0.8
@@ -32,8 +32,8 @@ mesh: [
   type: NoiseMesh
   planet: exothermica
   divisions: 6
-  color1: "71403d"
-  color2: "6e8e75"
+  color1: "bab26a"
+  color2: "96aeb4"
   radius: 1.1
   octaves: 4
   persistence: 1.2
