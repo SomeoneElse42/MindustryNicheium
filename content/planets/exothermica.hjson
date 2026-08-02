@@ -21,7 +21,7 @@ mesh: [
   divisions: 6
   color1: "71403d"
   color2: "6e8e75"
-  radius: 1.1
+  radius: 1.07
   octaves: 8
   persistence: 1
   scl: 1
