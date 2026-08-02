@@ -1,0 +1,4 @@
+type: Floor
+name: "Brucite"
+itemDrop: "brucite"
+variants: 3
