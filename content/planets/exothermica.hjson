@@ -47,7 +47,7 @@ cloudMesh: [
     type: HexSkyMesh
     speed: 2
     divisions: 6
-    radius: 0.07
+    radius: 0.16
     color: ffb04a60
     octaves: 2
     persistence: 0.6
@@ -58,7 +58,7 @@ cloudMesh: [
     type: HexSkyMesh
     speed: 0.2
     divisions: 6
-    radius: 0.1
+    radius: 0.2
     color: dd7b52
     octaves: 1
     persistence: 0.1
@@ -69,7 +69,7 @@ cloudMesh: [
     type: HexSkyMesh
     speed: 3
     divisions: 6
-    radius: 0.12
+    radius: 0.26
     color: 69635c
     octaves: 5
     persistence: 0.8
