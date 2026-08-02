@@ -1,3 +1,4 @@
 type: Floor
 name: "Ash"
+itemDrop: "ash"
 variants: 3
