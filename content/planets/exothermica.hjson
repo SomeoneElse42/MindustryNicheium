@@ -22,7 +22,7 @@ mesh: [
   color1: "71403d"
   color2: "6e8e75"
   radius: 1.1
-  octaves: 4
+  octaves: 8
   persistence: 1
   scl: 1
   mag: 0.7
