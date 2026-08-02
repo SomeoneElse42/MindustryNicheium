@@ -31,12 +31,12 @@ mesh: [
 {
   type: NoiseMesh
   planet: exothermica
-  divisions: 8
+  divisions: 6
   color1: "71403d"
   color2: "6e8e75"
   radius: 1.2
   octaves: 4
-  persistence: 0.8
+  persistence: 1.2
   scl: 5
   mag: 1
   seed: 161
