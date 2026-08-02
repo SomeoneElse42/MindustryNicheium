@@ -25,7 +25,7 @@ mesh: [
   octaves: 4
   persistence: 0.6
   scl: 14
-  mag: 0.4
+  mag: 0.7
   seed: 420
 }
 {
@@ -38,7 +38,7 @@ mesh: [
   octaves: 4
   persistence: 0.6
   scl: 14
-  mag: 0.4
+  mag: 1
   seed: 161
 }
 ]
