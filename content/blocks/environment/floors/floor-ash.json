@@ -1,4 +1,5 @@
 type: Floor
 name: "Ash"
 itemDrop: "ash"
+playerUnmineable: true
 variants: 3
