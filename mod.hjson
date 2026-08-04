@@ -2,10 +2,9 @@
 name: "nicheium"
 displayName: "Nicheium"
 author: "SomeoneElse, Abdullah",
-description: "Land on Exothermica, a planet kept hot by constant fires. Go on a journey to find the most niche element!\n\n*Kind of* a joke mod to make fun of those aspiring to only add super niche content such as elements. We'll see how it goes.\n\nNiche status: Kinda niche, we need more green marked elements on the niche table.",
+description: "Land on Exothermica, a planet kept hot by constant fires. Go on a journey to find the most niche element!\n\n*Kind of* a joke mod to make fun of those aspiring to only add super niche content, for example chemical elements. We'll see how it goes.\n\nNiche status: Kinda niche, we need more green marked elements on the niche table.",
 version: "0.02"
 minGameVersion: "146"
 dependencies: [ ],
-subtitle: "Super NICHE"
 hidden: false
 }
