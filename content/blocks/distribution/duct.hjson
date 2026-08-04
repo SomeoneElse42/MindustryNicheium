@@ -1,0 +1,10 @@
+name: duct
+localizedName: Duct
+description: Basic transport duct for solid items.
+type: Duct
+health: 90
+size: 1
+requirements: [chromium / 1]
+category: distribution
+speed: 5
+research: core-trace

@@ -1,0 +1,16 @@
+type: CoreBlock
+name: core-trace
+localizedName: Core Trace
+description: The first core. Weak, but it sustains the rest of your journey.
+health: 3200
+size: 3
+itemCapacity: 2000
+category: effect
+requirements: [chromium / 160, zinc / 120, ash / 80]
+alwaysUnlocked: true
+research: {
+    planet: exothermica
+    root: true
+    name: Exothermica
+    requiresUnlock: false
+}

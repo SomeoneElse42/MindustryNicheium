@@ -1,0 +1,10 @@
+name: liquid-duct
+localizedName: Liquid Duct
+description: Basic transport duct for liquids and gases.
+type: Conduit
+health: 120
+size: 1
+requirements: [zinc/1]
+category: liquid
+hasLiquids: true
+research: core-trace
