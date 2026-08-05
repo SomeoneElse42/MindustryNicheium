@@ -1,4 +1,4 @@
 type: OreBlock
-variants: 2
+variants: 4
 itemDrop: "fluorite"
 playerUnmineable: false
