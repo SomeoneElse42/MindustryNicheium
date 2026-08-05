@@ -1,6 +1,6 @@
 name: duct
-localizedName: Duct
-description: Basic transport duct for solid items.
+localizedName: Rail
+description: Transports individual items forward.
 type: Duct
 health: 90
 size: 1
