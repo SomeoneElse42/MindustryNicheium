@@ -4,6 +4,7 @@ description: A powerful drill with high impact force for rapid resource extracti
 baseArrowColor: "292939"
 arrowColor: "c2f2fe"
 glowColor: "c2f2fe"
+arrows: 1
 details: Rams a powerful piston into the ground to extract resources.
 size: 2
 tier: 4
