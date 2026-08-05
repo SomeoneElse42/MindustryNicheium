@@ -2,6 +2,7 @@ type: CoreBlock
 name: core-trace
 localizedName: Core: Trace
 description: The first core. Weak, but it sustains the rest of your journey.
+squareSprite: false
 health: 3200
 size: 3
 itemCapacity: 2000
