@@ -1,0 +1,18 @@
+type: DuctBridge
+name: Rail Bridge
+health: 50
+size: 1
+range: 5
+speed: 5
+squareSprite: false
+description: Suspended rail used for crossing terrain and blocks.
+
+
+solid: false
+category: distribution
+requirements: [
+	zinc/5,
+	chromium/10
+]
+
+research: rail
