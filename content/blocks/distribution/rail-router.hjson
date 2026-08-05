@@ -1,0 +1,11 @@
+type: DuctRouter
+name: Rail Router
+size: 1
+health: 100
+speed: 5
+category: distribution
+requirements: [
+	chromium/10
+]
+
+research: rail
