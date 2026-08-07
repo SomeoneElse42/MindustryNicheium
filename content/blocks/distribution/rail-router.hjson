@@ -1,5 +1,6 @@
 type: DuctRouter
 name: Rail Router
+description: Evenly splits a rail into up to three outputs.
 size: 1
 health: 100
 speed: 5
