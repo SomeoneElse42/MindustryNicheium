@@ -1,7 +1,7 @@
 name: armored-rail
 localizedName: Reinforced Rail
 description: Transports individual items forward. Does not accept items from the sides.
-type: Duct
+type: ArmoredDuct
 health: 200
 size: 1
 requirements: [chromium / 1, corundum / 1]
