@@ -2,7 +2,7 @@ name: Magnesium
 description: "A slightly soft but really lightweight metal. Slightly reactive, highly flammable. Used for lightweight machinery and flammable ammunition."
 color: efeddd
 hardness: 3
-flammability: 100
+flammability: 1
 explosiveness: 0
 radioactivity: 0
 charge: 0

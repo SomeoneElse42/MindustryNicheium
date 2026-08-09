@@ -1,8 +1,8 @@
 name: Magnesium
-description: "Slightly reactive, flammable metal. Used for concrete production and alloying."
+description: "Highly reactive, flammable metal. Used for concrete production and alloying."
 color: efeddd
 hardness: 3
-flammability: 100
+flammability: 1.5
 explosiveness: 0
 radioactivity: 0
 charge: 0

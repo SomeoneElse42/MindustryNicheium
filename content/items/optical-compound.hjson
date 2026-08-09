@@ -1,0 +1,9 @@
+name: Optical Compound
+description: "A semiconductive material used in optics and solar panels."
+color: "1b1c21"
+hardness: 3
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+shownPlanets: [exothermica]

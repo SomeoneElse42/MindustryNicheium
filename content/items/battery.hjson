@@ -1,0 +1,9 @@
+name: Battery
+description: "Slowly outputs power through chemical reactions."
+color: "e5ca76"
+hardness: 3
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+shownPlanets: [exothermica]
