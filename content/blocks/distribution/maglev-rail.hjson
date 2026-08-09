@@ -8,7 +8,7 @@ requirements: [aluminium / 2, neodymium / 2]
 research: rail
 category: distribution
 speed: 0.0666667
-recharge: 0
+recharge: 0.5
 
 glowColor: "c9e8e8"
 hasPower: true
