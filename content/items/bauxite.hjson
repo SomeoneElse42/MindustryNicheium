@@ -1,12 +1,10 @@
-{
-"name": "Bauxite",
-  "description": "Aluminium containing rock. Refined into magnesia.",
-  "details": "Also \"refined\" into sludge...",
-  "color": "824e46",
-  "hardness": 3,
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0,
-  "shownPlanets": ["exothermica"]
-}
+name: Bauxite
+description: "Aluminium containing rock. Refined into magnesia."
+details: "Also \"refined\" into sludge..."
+color: 824e46
+hardness: 3
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+shownPlanets: [exothermica]

@@ -1,11 +1,9 @@
-{
-"name": "Polonium",
-  "description": "Soft and extremely radioactive material. Used for nuclear reactors and weapons.",
-  "color": "f17530",
-  "hardness": 6,
-  "flammability": 0,
-  "explosiveness": 2,
-  "radioactivity": 2,
-  "charge": 0,
-  "shownPlanets": ["exothermica"]
-}
+name: Polonium
+description: "Soft and extremely radioactive material. Used for nuclear reactors and weapons."
+color: f17530
+hardness: 6
+flammability: 0
+explosiveness: 2
+radioactivity: 2
+charge: 0
+shownPlanets: [exothermica]

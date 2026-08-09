@@ -1,11 +1,9 @@
-{
-"name": "Magnesia",
-  "description": "Magnesium oxide. Can be refined into aluminium.",
-  "color": "d0c6b0",
-  "hardness": 3,
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0,
-  "shownPlanets": ["exothermica"]
-}
+name: Magnesia
+description: "Magnesium oxide. Can be refined into aluminium."
+color: d0c6b0
+hardness: 3
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+shownPlanets: [exothermica]

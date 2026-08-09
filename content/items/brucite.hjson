@@ -1,11 +1,9 @@
-{
-"name": "Brucite",
-  "description": "Magnesium containing rock. Refined into magnesia.",
-  "color": "7d9aa2",
-  "hardness": 2,
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0,
-  "shownPlanets": ["exothermica"]
-}
+name: Brucite
+description: "Magnesium containing rock. Refined into magnesia."
+color: 7d9aa2
+hardness: 2
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+shownPlanets: [exothermica]

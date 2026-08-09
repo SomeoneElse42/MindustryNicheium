@@ -1,4 +1,4 @@
-name: duct
+name: rail
 localizedName: Rail
 description: Transports individual items forward.
 type: Duct

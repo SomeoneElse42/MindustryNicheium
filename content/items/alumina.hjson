@@ -1,11 +1,9 @@
-{
-"name": "Alumina",
-  "description": "Aluminium oxide. Can be refined into aluminium or crystallized into corundum.",
-  "color": "d7dfeb",
-  "hardness": 3,
-  "flammability": 0,
-  "explosiveness": 0,
-  "radioactivity": 0,
-  "charge": 0,
-  "shownPlanets": ["exothermica"]
-}
+name: Alumina
+description: "Aluminium oxide. Can be refined into aluminium or crystallized into corundum."
+color: d7dfeb
+hardness: 3
+flammability: 0
+explosiveness: 0
+radioactivity: 0
+charge: 0
+shownPlanets: [exothermica]

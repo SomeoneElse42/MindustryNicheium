@@ -1,0 +1,10 @@
+name: stack-rail
+localizedName: "Stack Rail"
+description: "Packages and sends items in batches of ten."
+type: StackConveyor
+health: 120
+size: 1
+requirements: [aluminium / 2, neodymium / 2]
+category: distribution
+speed: 0.0666667
+research: rail
