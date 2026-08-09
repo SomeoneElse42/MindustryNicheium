@@ -1,0 +1,18 @@
+name: stack-rail
+localizedName: "Maglev Rail"
+description: "Packages and sends items in batches of ten. Uses magnetic levitation to increase transport speed. Can be sped up with power."
+type: StackConveyor
+health: 120
+size: 1
+requirements: [aluminium / 2, neodymium / 2]
+category: distribution
+speed: 0.0666667
+recharge: 1
+
+glowColor: "c9e8e8"
+hasPower: true
+consumesPower: true
+conductivePower: true
+consumes: {
+  power: 0.015
+}
