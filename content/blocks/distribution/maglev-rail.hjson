@@ -5,6 +5,7 @@ type: StackConveyor
 health: 120
 size: 1
 requirements: [aluminium / 2, neodymium / 2]
+research: rail
 category: distribution
 speed: 0.0666667
 recharge: 1
@@ -16,3 +17,4 @@ conductivePower: true
 consumes: {
   power: 0.015
 }
+baseEfficiency: 1
