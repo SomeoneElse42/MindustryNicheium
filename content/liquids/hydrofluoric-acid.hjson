@@ -1,0 +1,11 @@
+type: Liquid
+explosiveness: 0
+flammability: 0
+heatCapacity: 0.5
+viscosity: 0.6
+temperature: 0.5
+color: "cff32d"
+name: "Hydrofluoric Acid"
+coolant: false
+description: "A highly corrosive liquid that's used in chemical processing and weapons."
+shownPlanets: ["exothermica"]

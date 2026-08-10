@@ -1,0 +1,11 @@
+type: Liquid
+explosiveness: 0
+flammability: 0
+heatCapacity: 0.5
+viscosity: 0.8
+temperature: 0.5
+color: "f066b4"
+name: "Sludge"
+coolant: false
+description: "Thick industrial waste. Requires disposal or recycling."
+shownPlanets: ["exothermica"]
