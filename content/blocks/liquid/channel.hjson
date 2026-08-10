@@ -1,6 +1,6 @@
 name: liquid-duct
-localizedName: Liquid Duct
-description: Basic transport duct for liquids and gases.
+localizedName: Channel
+description: Transports liquids and gases forward.
 type: Conduit
 health: 120
 size: 1
