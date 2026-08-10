@@ -1,6 +1,6 @@
-name: Magnesium
+name: Calcium
 description: "Highly reactive, flammable metal. Used for concrete production and alloying."
-color: efeddd
+color: "9c9a8e"
 hardness: 3
 flammability: 1.5
 explosiveness: 0
