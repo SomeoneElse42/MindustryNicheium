@@ -1,9 +1,11 @@
 name: liquid-duct
 localizedName: Channel
-description: Transports liquids and gases forward.
+description: Transports liquids and gases forward. Does not leak.
 type: Conduit
 health: 120
 size: 1
+botColor: "1d4e3e"
+leaks: false
 requirements: [zinc/1]
 category: liquid
 hasLiquids: true
