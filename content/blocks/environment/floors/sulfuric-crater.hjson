@@ -5,7 +5,16 @@ blendGroup: "sulfuric-stone"
 
 effectSpacing: 25
 effect:{
-    type: none
+  type: ParticleEffect
+  lifetime: 200
+  length: 35
+  baseLength: 4
+  sizeFrom: 3
+  sizeTo: 5
+  colorFrom: ffd56860,
+  colorTo: cccab600,
+  cone: 35
+  offset: 20
 }
 
 attributes: {
