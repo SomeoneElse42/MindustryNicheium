@@ -1,6 +1,5 @@
 type: SteamVent
 name: "Sulfuric Crater"
-variants: 1
 blendGroup: "sulfuric-stone"
 
 effectSpacing: 25
