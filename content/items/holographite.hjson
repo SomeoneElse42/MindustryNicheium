@@ -1,0 +1,12 @@
+name: Holographite
+description: "Holographic material. Exhibits some strange properties. Unstable, requires constant energy input to keep solid."
+details: "Not to be confused with holographic graphite."
+color: d0f3f8
+hardness: 3
+flammability: 0
+explosiveness: 0
+radioactivity: 0.6
+charge: 0
+shownPlanets: [exothermica]
+frames: 5
+frameTime: 12
