@@ -8,5 +8,5 @@ explosiveness: 0
 radioactivity: 0.6
 charge: 0
 shownPlanets: [exothermica]
-frames: 5
-frameTime: 12
+frames: 8
+frameTime: 8
