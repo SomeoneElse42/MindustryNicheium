@@ -1,0 +1,65 @@
+
+type: "GenericCrafter",
+name: "Brucite Calcinator",
+description: "Heats up brucite to decompose it with heat. Outputs water as a byproduct, excess water is voided.",
+size: 2,
+health: 180,
+squareSprite: false,
+displayEfficiency: false,
+category: "crafting",
+requirements: [
+  "iron/20",
+  "glass/20"
+],
+researchCost: [
+  "iron/100",
+  "glass/100"
+],
+craftEffect: "steam",
+drawer: {
+  type: "DrawMulti",
+  drawers: [
+    {
+      type: "DrawRegion",
+      suffix: "-bottom"
+    },
+    {
+      type: "DrawLiquidTile",
+      drawLiquid: "water",
+      padding: 2
+    },
+    {
+      type: "DrawDefault"
+    },
+    {
+      type: "DrawGlowRegion",
+      suffix: "-glow",
+      color: "f4f0e7"
+    },
+    {
+    type: "DrawGlowRegion",
+    suffix: "-heat",
+    color: "f47474"
+    }
+  ]
+},
+craftTime: 60,
+ambientSound: "loopHum",
+ambientSoundVolume: 0.5,
+outputItem: "magnesia/1",
+outputLiquid: "water/0.02",
+conductivePower: true,
+consumes: {
+  power: 0.2,
+  items: {
+    items: [
+      {
+        item: "brucite",
+        amount: 1
+      }
+    ]
+  }
+},
+liquidCapacity: 24
+
+

@@ -1,4 +1,9 @@
+structure:
+    #474b5b - dark
+    #6b7280 - mid
+    #808b9a - light
+    #292939 - deep
 power:
-    e3f7ff
-    bdd6ff
-    8899db
+    #e3f7ff
+    #bdd6ff
+    #8899db
