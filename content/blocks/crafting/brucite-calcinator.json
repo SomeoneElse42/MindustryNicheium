@@ -34,12 +34,13 @@ drawer: {
     {
       type: "DrawGlowRegion",
       suffix: "-glow",
-      color: "f4f0e7"
+      color: "f4f0e7",
+      alpha: 0.6
     },
     {
     type: "DrawGlowRegion",
     suffix: "-heat",
-    color: "f47474"
+    color: "62869e"
     }
   ]
 },
@@ -48,7 +49,6 @@ ambientSound: "loopHum",
 ambientSoundVolume: 0.5,
 outputItem: "magnesia/1",
 outputLiquid: "water/0.02",
-conductivePower: true,
 consumes: {
   power: 0.2,
   items: {
