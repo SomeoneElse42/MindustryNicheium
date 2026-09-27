@@ -46,6 +46,7 @@ drawer: {
 },
 craftTime: 60,
 ambientSound: "loopHum",
+ignoreLiquidFullness: true,
 ambientSoundVolume: 0.5,
 outputItem: "magnesia/1",
 outputLiquid: "water/0.02",
