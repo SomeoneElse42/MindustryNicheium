@@ -3,7 +3,7 @@ description: "Slowly outputs power through chemical reactions."
 color: "e5ca76"
 hardness: 3
 flammability: 0
-explosiveness: 0
+explosiveness: 1
 radioactivity: 0
 charge: 1
 shownPlanets: [exothermica]

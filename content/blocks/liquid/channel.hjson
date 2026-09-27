@@ -4,7 +4,7 @@ description: Transports liquids and gases forward. Does not leak.
 type: Conduit
 health: 120
 size: 1
-botColor: "1d4e3e"
+botColor: "314841"
 leaks: false
 requirements: [zinc/1]
 category: liquid
