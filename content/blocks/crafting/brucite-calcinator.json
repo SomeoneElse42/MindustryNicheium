@@ -8,12 +8,12 @@ squareSprite: false,
 displayEfficiency: false,
 category: "crafting",
 requirements: [
-  "iron/20",
-  "glass/20"
+  "zinc/20",
+  "chromium/20"
 ],
 researchCost: [
-  "iron/100",
-  "glass/100"
+  "zinc/100",
+  "chromium/100"
 ],
 craftEffect: "steam",
 drawer: {
