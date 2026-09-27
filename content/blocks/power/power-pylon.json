@@ -1,0 +1,31 @@
+type: "PowerNode",
+health: 120,
+laserRange: 5,
+maxNodes: 3,
+name: "Power Pylon",
+description: "Connects powered structures over short ranges.",
+squareSprite: false,
+requirements: [
+  {
+      item: "chromium",
+      amount: 2
+  },
+{
+    item: "zinc",
+    amount: 1
+ }
+],
+researchCost: [
+  {
+      item: "chromium",
+      amount: 10
+    },
+  {
+      item: "zinc",
+      amount: 5
+   }
+],
+research: "solid-burner",
+category: "power",
+powerCapacity: 1000,
+laserColor2: "8899db"

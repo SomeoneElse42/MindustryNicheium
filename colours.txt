@@ -1,0 +1,4 @@
+power:
+    e3f7ff
+    bdd6ff
+    8899db
