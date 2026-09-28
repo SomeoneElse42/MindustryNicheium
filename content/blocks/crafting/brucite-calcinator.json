@@ -1,7 +1,7 @@
 
 type: "GenericCrafter",
 name: "Brucite Calcinator",
-description: "Heats up brucite to decompose it with heat. Outputs water as a byproduct, excess water is voided.",
+description: "Decomposes brucite with heat. Outputs water as a byproduct, excess water is voided.",
 size: 2,
 health: 180,
 squareSprite: false,
