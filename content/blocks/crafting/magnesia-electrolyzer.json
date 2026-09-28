@@ -1,0 +1,61 @@
+
+type: "GenericCrafter",
+name: "Magnesia Electrolyzer",
+description: "Uses electrical current to split magnesia into magnesium and oxygen. Voids excess oxygen.",
+size: 2,
+health: 180,
+squareSprite: false,
+displayEfficiency: false,
+category: "crafting",
+requirements: [
+  "zinc/20",
+  "chromium/20"
+],
+researchCost: [
+  "zinc/100",
+  "chromium/100"
+],
+craftEffect: "steam",
+drawer: {
+  type: "DrawMulti",
+  drawers: [
+    {
+      type: "DrawRegion",
+      suffix: "-bottom"
+    },
+    {
+      type: "DrawLiquidTile",
+      drawLiquid: "oxygen",
+      padding: 2
+    },
+    {
+      type: "DrawDefault"
+    },
+    {
+      type: "DrawGlowRegion",
+      suffix: "-glow",
+      color: "efeddd",
+      alpha: 0.6
+    }
+  ]
+},
+craftTime: 60,
+ambientSound: "loopElectricHum",
+ignoreLiquidFullness: true,
+ambientSoundVolume: 0.5,
+outputItem: "magnesium/1",
+outputLiquid: "oxygen/0.02",
+consumes: {
+  power: 0.4,
+  items: {
+    items: [
+      {
+        item: "magnesia",
+        amount: 1
+      }
+    ]
+  }
+},
+liquidCapacity: 24
+
+
