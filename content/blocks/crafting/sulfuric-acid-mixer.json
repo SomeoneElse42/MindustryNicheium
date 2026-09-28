@@ -1,0 +1,65 @@
+
+type: "GenericCrafter",
+name: "Sulfuric Acid Mixer",
+description: "Mixes sulfuric acid from water, sulfur and oxygen.",
+size: 2,
+health: 180,
+squareSprite: false,
+displayEfficiency: false,
+category: "crafting",
+requirements: [
+  "magnesium/10",
+  "magnesia/10",
+  "chromium/40"
+],
+researchCost: [
+  "magnesium/50",
+  "magnesia/50",
+  "chromium/200"
+],
+craftEffect: "steam",
+drawer: {
+  type: "DrawMulti",
+  drawers: [
+    {
+      type: "DrawRegion",
+      suffix: "-bottom"
+    },
+    {
+      type: "DrawLiquidTile",
+      drawLiquid: "sulfuric-acid",
+      padding: 2
+    },
+    {
+      type: "DrawBlurSpin",
+      suffix: "-rotator"
+      rotateSpeed: 3
+    },
+    {
+      type: "DrawDefault"
+    }
+  ]
+},
+craftTime: 60,
+ambientSound: "loopSteam",
+ignoreLiquidFullness: true,
+ambientSoundVolume: 0.5,
+outputLiquid: "sulfuric-acid/0.05",
+consumes: {
+  power: 0.4,
+  items: {
+    items: [
+      {
+        item: "sulfur",
+        amount: 1
+      }
+    ]
+  },
+  liquid: {
+    liquids: [
+      "oxygen/0.1"
+      "water/0.2"
+    ]
+  }
+},
+liquidCapacity: 48
