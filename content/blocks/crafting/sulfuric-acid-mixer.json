@@ -42,7 +42,7 @@ drawer: {
 },
 craftTime: 60,
 ambientSound: "loopSteam",
-ignoreLiquidFullness: true,
+ignoreLiquidFullness: false,
 ambientSoundVolume: 0.5,
 outputLiquid: "sulfuric-acid/0.2",
 consumes: {
