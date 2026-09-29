@@ -55,7 +55,7 @@ consumes: {
       }
     ]
   },
-  liquid: {
+  liquids: {
     liquids: [
       {
         liquid: water,
@@ -65,8 +65,6 @@ consumes: {
         liquid: oxygen,
         amount: 0.1
       }
-
-
     ]
   }
 },
