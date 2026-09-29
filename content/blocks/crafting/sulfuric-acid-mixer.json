@@ -44,7 +44,7 @@ craftTime: 60,
 ambientSound: "loopSteam",
 ignoreLiquidFullness: true,
 ambientSoundVolume: 0.5,
-outputLiquid: "sulfuric-acid/0.05",
+outputLiquid: "sulfuric-acid/0.2",
 consumes: {
   power: 0.4,
   items: {
@@ -57,8 +57,16 @@ consumes: {
   },
   liquid: {
     liquids: [
-      "oxygen/0.1"
-      "water/0.2"
+      {
+        liquid: water,
+        amount: 0.2
+      },
+      {
+        liquid: oxygen,
+        amount: 0.1
+      }
+
+
     ]
   }
 },
