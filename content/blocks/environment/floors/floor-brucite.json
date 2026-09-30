@@ -3,3 +3,7 @@ name: "Brucite"
 itemDrop: "brucite"
 playerUnmineable: true
 variants: 3
+
+attributes: {
+water: 1.2,
+}
