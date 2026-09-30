@@ -1,0 +1,59 @@
+type: "AttributeCrafter",
+attribute: "water",
+baseEfficiency: 1,
+name: "Groundwater Bore",
+boostScale: 0.25,
+description: "Extracts groundwater from aquifers.",
+size: 2,
+health: 340,
+squareSprite: false,
+displayEfficiency: true,
+category: "production",
+requirements: [
+  "zinc/30",
+  "chromium/10",
+  "magnesia/10"
+],
+researchCost: [
+  "zinc/150",
+  "chromium/50",
+  "magnesia/50"
+],
+craftEffect: "steam",
+research: {
+  parent: "kinetic-drill",
+  objectives: [
+  ]
+},
+drawer: {
+  type: DrawMulti,
+  drawers: [
+    {
+      type: "DrawRegion",
+      suffix: "-bottom"
+    },
+    {
+      type: "DrawLiquidTile",
+      drawLiquid: "water",
+      padding: 2
+    },
+    {
+      type: "DrawBlurSpin",
+      suffix: "-rotator",
+      rotateSpeed: 3
+    },
+    {
+      type: "DrawDefault"
+    }
+  ]
+},
+craftTime: 120,
+ambientSound: "loopSteam",
+ambientSoundVolume: 0.05,
+outputLiquid: "water/0.2",
+conductivePower: true,
+consumes: {
+  power: 0.6
+},
+
+liquidCapacity: 24
