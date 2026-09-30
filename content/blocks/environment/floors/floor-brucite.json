@@ -5,5 +5,5 @@ playerUnmineable: true
 variants: 3
 
 attributes: {
-water: 1.2,
+water: 0.2,
 }
