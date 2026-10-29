@@ -3,7 +3,7 @@ description: "Soft and malleable material. Used for lasers and semiconductors."
 color: 7f6988
 hardness: 3
 flammability: 0
-explosiveness: 2
+explosiveness: 0
 radioactivity: 0
 charge: 0
 shownPlanets: [exothermica]
